@@ -23,7 +23,8 @@
                 <tr>
                     <th>Alamat</th>
                     <td>: KM2 </td>
-                </tr>
+                </tr>    ![foto](https://github.com/user-attachments/assets/e299ecc7-c1ad-4457-96d6-8286264c917e)
+
                 <tr>
                     <th>Email</th>
                     <td>: rendylewar06@gmail.com</td>
@@ -37,3 +38,4 @@
     </div>
 </body>
 </html>
+

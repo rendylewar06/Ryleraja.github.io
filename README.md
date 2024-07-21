@@ -10,7 +10,7 @@
     <div class="container">
         <h1>Biodata Saya</h1>
         <div class="profile">
-            <img src="\Users\User\Downloads\foto.jpeg" alt="foto Profil">
+            <img src="https://github.com/user-attachments/assets/52e45796-9e33-4403-83a2-751c402198bb" alt="foto Profil">
             <table>
                 <tr>
                     <th>Nama</th>
@@ -23,8 +23,7 @@
                 <tr>
                     <th>Alamat</th>
                     <td>: KM2 </td>
-                </tr>    ![foto](https://github.com/user-attachments/assets/e299ecc7-c1ad-4457-96d6-8286264c917e)
-
+                </tr>
                 <tr>
                     <th>Email</th>
                     <td>: rendylewar06@gmail.com</td>
@@ -38,4 +37,5 @@
     </div>
 </body>
 </html>
+
 
